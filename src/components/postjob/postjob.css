@@ -1,0 +1,43 @@
+.outer-div{
+    border:2px solid 
+    #F97316;
+    height:600px;
+    border-radius: 20px;
+}
+.jd-div{
+    height: 70px;
+    width: 100%;
+    
+}
+.jd-outer-div{
+   margin-left:100px;
+}
+.jd-text{
+    padding-right: 220px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+   
+}
+.jd-text2{
+    padding-right: 150px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+   
+}
+.skills-input{
+    border-radius:12px;
+    border-color:lightgrey;
+    margin-bottom:10px;
+    padding-right: 60px;
+    margin-right: 70px;
+}
+.next-btn{
+    border:2px solid #F97316;
+    border-radius: 20px;
+    background-color: #fff;
+    font-size: 14px;
+    padding:2px 18px;
+    color: #F97316;
+}

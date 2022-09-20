@@ -1,0 +1,36 @@
+.signup_main_div{
+    margin: auto;
+    background-color: #e5e5e5;
+    width:100%;
+    height:500px;
+    margin-top: 80px;
+}
+.Ed_main_div{
+    margin: auto;
+    background-color: #e5e5e5;
+    width:100%;
+    height:200px;
+    margin-top: 80px;
+
+}
+h4{
+    padding-top: 30px;
+}
+.sign_up_input{
+   
+    width:85% ;
+    margin-left: 17px;
+}
+.btn-div{
+    margin: auto;
+    width:70px;
+    height: 25px;
+    background-color: darkgrey;
+    border-radius:12px;
+    
+}
+.noc_text{
+    margin-top:20px;
+text-align: start;
+padding-left:50px;
+}

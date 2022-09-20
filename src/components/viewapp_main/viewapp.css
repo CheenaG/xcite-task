@@ -1,0 +1,37 @@
+.rectangle_1{
+    width:180px;
+    height: 60px;
+    background-color: #F97316;
+
+}
+.shortlist{
+    text-align: justify;
+    margin-bottom: 60px;
+}
+.btn-shortlisted{
+    background-color:#fff;
+    font-size: 13px;
+    border:1px solid #676976;
+    padding:2px 25px;
+
+}
+.tag-div{
+    display: flex;
+    justify-content: end;
+   
+}
+.apply-btn2{
+    background-color: #F97316;
+    color: #fff;
+    font-size: 13px;
+    margin-top: 24px;
+    padding: 0px 7px;
+
+}
+.menu1{
+   padding-top:6px;
+}
+.menu2{
+    font-size: 12px;
+    padding-top: 8px;
+}

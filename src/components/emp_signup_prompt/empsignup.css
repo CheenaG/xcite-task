@@ -1,0 +1,15 @@
+
+.input_fname{
+    display: flex;
+    margin-left: 10px;
+   
+   
+}
+.signup-text{
+    text-align: justify;
+    margin-left: 12px;
+}
+.inputdiv{
+    
+    border-radius:8px;
+}

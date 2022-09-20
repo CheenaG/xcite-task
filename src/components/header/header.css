@@ -1,0 +1,36 @@
+.logo_btn{
+background-color:#D9D9D9;
+border: none;
+padding:5px 44px;
+margin-top: 20px;
+
+
+}
+.header{
+    background-color: #EEEEEE;
+}
+.post_btn{
+    background-color:#D9D9D9;
+    border: none;
+    padding:4px 34px; 
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.applicants_btn{
+    
+    background-color:#D9D9D9;
+    border: none;
+    padding:6px 34px; 
+    margin-top: 20px;
+    
+
+}
+.circle{
+    background-color: #D9D9D9;
+    width:70px;
+    height: 70px;
+    border-radius: 50%;
+   
+}
+
+

@@ -1,0 +1,22 @@
+.viewapp-con{
+    height: 80px;
+  
+    border-bottom: 2px solid black;
+}
+.viewapp_menu{
+    padding-top: 20px;
+}
+.paj_btn{
+    background-color: #F97316;
+    color:#fff;
+    font-size: 16px;
+    border-radius: 20px;
+    border: none;
+    padding:2px 10px
+}
+.cir-div{
+    width:30px;
+    height: 20px;
+    border-radius: 50%;
+    border:1px solid black;
+}

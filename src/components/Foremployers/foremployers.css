@@ -1,0 +1,21 @@
+.borderbottom{
+    border-bottom: 1px solid #F97316;
+    max-width: 75% !important;
+    margin-left: 130px;
+  
+}
+
+.one{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #F97316;
+    color:#fff;
+    margin: auto;
+}
+.bold_text{
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 12px;
+    font-size: 24px;
+}
