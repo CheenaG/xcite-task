@@ -47,7 +47,7 @@ const ForEmployers = () => {
           <div className="row mt-5">
             <div className="col-lg-1"></div>
             <div className="col-lg-3">
-              <div className="one">1</div>
+              <div className="one">7</div>
               <div className="bold_text">Register</div>
               <div>Register as an employer</div>
               <div>and provide details about </div>
